@@ -1,7 +1,6 @@
 
 ## Hi, I'm Younès 👋
 
-- 👨🏾‍💻I'm a french full stack developer living in Grenoble, France.
 - 🌱 I’m currently working with TypeScript, Vue and Solidity.
 - 🔭 I’m also developing my competences by working on two packages, a utility-first CSS framework, and a vue 3 component library.
 - 👯 I’m trying to collaborate to Nuxt and Vue.
