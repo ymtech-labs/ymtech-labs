@@ -7,4 +7,6 @@
 - 💬 Do not hesitate to let me know if you have any queries.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/younes-manjal/) and [Twitter](https://twitter.com/younesmjl)
 
+<div align="center">
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=younesmjl&theme=vue-dark)](https://github.com/younesmjl)
+</div>
