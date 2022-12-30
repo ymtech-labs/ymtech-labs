@@ -10,6 +10,6 @@
 
 <div align="center">
   
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=younesmjl&theme=vue-dark)](https://github.com/younesmjl)
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ymtech-labs&theme=vue-dark)](https://github.com/younesmjl)
   
 </div>
